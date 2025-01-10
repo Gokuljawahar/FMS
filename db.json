@@ -1,0 +1,84 @@
+{
+  "users": [
+    {
+      "id": "2353",
+      "email": "SayMyName@gmail.com",
+      "username": "YoureYou",
+      "password": "He@senbe0g"
+    },
+    {
+      "id": "4b9e",
+      "email": "Tester@gmail.com",
+      "username": "Tester",
+      "password": "Tester@1122"
+    },
+    {
+      "id": "54dd",
+      "email": "Tester2@gmail.com",
+      "username": "newTester",
+      "password": "Tester@1122"
+    },
+    {
+      "id": "50ae",
+      "email": "gayathiri@gmail.com",
+      "username": "gayathiri",
+      "password": "Password@1234"
+    }
+  ],
+  "uploads": [
+    {
+      "id": "bbb6",
+      "userId": "2353",
+      "uploadedTime": "10:49:12 am",
+      "fileName": "Screenshot 2024-11-23 100124.png",
+      "fileType": "image/png",
+      "fileTypeGroup": "image",
+      "fileLocation": "public/uploads/2353/Screenshot 2024-11-23 100124.png"
+    },
+    {
+      "id": "9e07",
+      "userId": "2353",
+      "uploadedTime": "10:57:43 am",
+      "fileName": "Screenshot 2024-11-24 104911.png",
+      "fileType": "image/png",
+      "fileTypeGroup": "image",
+      "fileLocation": "public/uploads/2353/Screenshot 2024-11-24 104911.png"
+    },
+    {
+      "id": "b2f5",
+      "userId": "2353",
+      "uploadedTime": "11:11:55 am",
+      "fileName": "Screenshot 2024-11-24 105324.png",
+      "fileType": "image/png",
+      "fileTypeGroup": "image",
+      "fileLocation": "public/uploads/2353/Screenshot 2024-11-24 105324.png"
+    },
+    {
+      "id": "8cf4",
+      "userId": "2353",
+      "uploadedTime": "11:31:12 am",
+      "fileName": "Screenshot 2024-11-24 104911.png",
+      "fileType": "image/png",
+      "fileTypeGroup": "image",
+      "fileLocation": "public/uploads/2353/Screenshot 2024-11-24 104911.png"
+    },
+    {
+      "id": "0151",
+      "userId": "50ae",
+      "uploadedTime": "3:57:13 pm",
+      "fileName": "gj-jg-letter-logo-99205f1c-3295-4418-b8f0-01964c79bde1.jpg",
+      "fileType": "image/jpeg",
+      "fileTypeGroup": "image",
+      "fileLocation": "public/uploads/50ae/gj-jg-letter-logo-99205f1c-3295-4418-b8f0-01964c79bde1.jpg"
+    },
+    {
+      "id": "0047",
+      "userId": "54dd",
+      "uploadedTime": "2:14:37 pm",
+      "fileName": "Screenshot 2024-12-11 162546.png",
+      "fileType": "image/png",
+      "fileTypeGroup": "image",
+      "fileLocation": "public/uploads/54dd/Screenshot 2024-12-11 162546.png"
+    }
+  ]
+}
